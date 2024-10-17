@@ -1,0 +1,9 @@
+[package]
+name = "practice3chjhy3rpy2uz"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "A brief description of a simple parser"
+
+[dependencies]
+peg = "0.8.4"
